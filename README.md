@@ -1,6 +1,6 @@
 # Hello, I'm [Your Name]! 👋
 
-I'm a passionate [Your Role] from [Your Location] with a love for [Your Interests/Hobbies]. Here, you'll find a glimpse of my work, projects, and more. Feel free to explore and connect with me.
+I'm a passionate Junior Fullstack Developer from 🇵🇱Poznań with a love for Chess, Rubic Cube, Music && Coffee. Here, you'll find a glimpse of my work, projects, and more. Feel free to explore and [Connect with Me](https://www.linkedin.com/in/jerzy-jarczynski/).
 
 ## About Me
 
