@@ -39,18 +39,6 @@ Let's connect and chat about our shared interests:
 - [Email](mailto:jerzy.jarczynski.95@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jerzy-jarczynski/)
 - [Twitter](https://twitter.com/Jarczynski95)
-- [Website](https://yourwebsite.com/)
-
-## My Blog
-
-I occasionally write about my experiences and interests on my blog. Check it out:
-
-- [Blog](https://yourblog.com)
-
-## Support Me
-
-If you find my work valuable and want to support it:
-
-- [Buy Me a Coffee](https://buymeacoff.ee/yourusername)
+- [Website](https://jarczynski-dev.pl/) (in development)
 
 Feel free to copy this template and customize it with your own information. Your GitHub profile README is a great way to introduce yourself, showcase your work, and connect with other developers.
