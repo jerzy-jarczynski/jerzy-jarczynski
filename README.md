@@ -17,17 +17,6 @@ I'm deeply interested in:
 - Rubik's Cube - 3x3 Solving time under 1 minute
 - Music - [Check out](https://www.youtube.com/watch?v=d3g0xpq_9XY)
 
-## My Projects
-
-Here are some of the cool projects I've worked on:
-
-- [Project 1 Name](Link)
-  - Brief description or key features.
-  - [Demo](Link) | [GitHub Repo](Link)
-- [Project 2 Name](Link)
-  - Brief description or key features.
-  - [Demo](Link) | [GitHub Repo](Link)
-
 ## My GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerzy-jarczynski&show_icons=true)
