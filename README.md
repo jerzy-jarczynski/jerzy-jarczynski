@@ -31,3 +31,7 @@ Let's connect and chat about our shared interests:
 - [Website](https://jarczynski-dev.pl/) (in development)
 
 Feel free to copy this template and customize it with your own information. Your GitHub profile README is a great way to introduce yourself, showcase your work, and connect with other developers.
+
+## Codewars Stats
+
+![Codewars](https://github.r2v.ch/codewars?user=jerzy-jarczynski&theme=gradient)
