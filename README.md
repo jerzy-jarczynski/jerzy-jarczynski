@@ -18,24 +18,24 @@ My future directions are mobile technologies (**Dart/Flutter**), learning **PHP/
 ## Currently learning:
 
 - Vanilla JavaScript:
--- Eloquent JavaScript 3th Edition, Marijn Haverbeke (paper version, I know there's a 4th edition since 2024)
+    - Eloquent JavaScript 3th Edition, Marijn Haverbeke (paper version, I know there's a 4th edition since 2024)
 Notes and projects: https://github.com/jerzy-jarczynski/eloquent-javascript
--- WesBos JavaScript 30
+    - WesBos JavaScript 30
 Projects: https://github.com/jerzy-jarczynski/WesBos_JS30
 Webpage: https://javascript30.com/
 
 - React:
--- Hello Roman, React course for supporters
+    - Hello Roman, React course for supporters
 Project Repo: https://github.com/jerzy-jarczynski/hr_study-buddy
 YouTube: https://www.youtube.com/@helloroman
 
 - Wordpress:
--- Mr Digital, WordPress Theme Development From Scratch
+    - Mr Digital, WordPress Theme Development From Scratch
 Project Repo: https://github.com/jerzy-jarczynski/wordpress_first-theme
 YouTube: https://www.youtube.com/playlist?list=PLgFB6lmeXFOpHnNmQ4fdIYA5X_9XhjJ9d
 
 - Pasja Informatyki
--- it is a Polish channel with many various tutorials and lifestyle videos. Just killing time and relaxing with that:
+    - it is a Polish channel with many various tutorials and lifestyle videos. Just killing time and relaxing with that:
 Repo: https://github.com/jerzy-jarczynski/Pasja_Informatyki
 YouTube: https://www.youtube.com/@Pasjainformatyki
 
@@ -44,20 +44,20 @@ YouTube: https://www.youtube.com/@Pasjainformatyki
 I am actively looking for work, preferably as a **Junior Fullstack Developer**. Below are projects I've completed as part of recruitment assignments. Unfortunately I have not received any **feedback** for them. They are full of **bugs** and **AI**, but I'm glad I did them:
 
 - Web Wizards:
--- Repo: https://github.com/jerzy-jarczynski/ww-employees-manager
+    - Repo: https://github.com/jerzy-jarczynski/ww-employees-manager
 
 - Parleto:
--- Repo: https://github.com/jerzy-jarczynski/parleto-recruitment-page
+    - Repo: https://github.com/jerzy-jarczynski/parleto-recruitment-page
 
 - Think 1st:
--- Repo: https://github.com/jerzy-jarczynski/think1st_workout-form
+    - Repo: https://github.com/jerzy-jarczynski/think1st_workout-form
 
 - Mediporta:
--- Repo: https://github.com/jerzy-jarczynski/mediporta_tag-browser
+    - Repo: https://github.com/jerzy-jarczynski/mediporta_tag-browser
 
 - Coalition Technologies:
--- Repo: https://github.com/jerzy-jarczynski/ct-losangeles-mountains
--- Codepen: https://codepen.io/jerzyjarczynski/pen/KKYjMJP
+    - Repo: https://github.com/jerzy-jarczynski/ct-losangeles-mountains
+    - Codepen: https://codepen.io/jerzyjarczynski/pen/KKYjMJP
 
 ## GitHub Stats:
 
@@ -81,19 +81,19 @@ Feel free to copy this template and customize it with your own information. Your
 ## My Tech Stack:
 
 - Very good:
--- HTML5, CSS3, JavaScript ES6
+    - HTML5, CSS3, JavaScript ES6
 
 - Good:
--- RWD, Bootstrap, Git, React, SQL
+    - RWD, Bootstrap, Git, React, SQL
 
 - Not bad:
--- TypeScript, Node.js, Express.js, Nest.js
+    - TypeScript, Node.js, Express.js, Nest.js
 
 - Practical basics:
--- WebSocket, MongoDB, Mongoose, Prisma, Jira
+    - WebSocket, MongoDB, Mongoose, Prisma, Jira
 
 - I don't know nothing:
--- C/C++, Python, Java, Golang, AI
+    - C/C++, Python, Java, Golang, AI
 
 ## Codepen projects:
 
